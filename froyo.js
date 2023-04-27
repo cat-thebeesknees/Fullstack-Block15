@@ -11,7 +11,8 @@ const customer = {
     favoriteStore: "Target",
     firstVisit: "false",
     }
-    //update the values using bracket notation for:
+
+    //Step 2- update the values using bracket notation for:
     //correct the information for email to "Jak3Smith1992@email.com"
     
     //correct the information phone to 3195551234
