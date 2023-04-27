@@ -1,6 +1,6 @@
 //step-2 create an object and name it "customer"
 const customer = {
-  //list all the keys and then add the value for each one
+  //list all the keys and then add the value for each one.
   firstName: "jake",
   lastName: "smith",
   email: "jaekSmih!aol.com",
